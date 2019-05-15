@@ -12,7 +12,8 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "nodemon": "^1.19.0"
+    "nodemon": "^1.19.0",
+    "twitter": "^1.7.1"
   },
   "devDependencies": {
     "concurrently": "^4.0.1"

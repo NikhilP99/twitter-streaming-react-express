@@ -1,0 +1,16 @@
+.content {
+  font-size: 17px;
+  font-family: Ubuntu;
+}
+
+h4 {
+  margin-bottom: 10px;
+}
+
+small {
+  margin-bottom : 20px;
+}
+
+.each-tweet {
+  margin-bottom: 25px;
+}
